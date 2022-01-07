@@ -1,6 +1,6 @@
 <img align="right" src="https://uber.github.io/img/h3Logo-color.svg" alt="H3 Logo" width="200">
 
-# **h3-py**: Uber's H3 Hexagonal Hierarchical Geospatial Indexing System in Python
+# **h3-py**: Uber's H3 Hexagonal Hierarchical Geospatial Indexing System in Python, testing!!!
 
 <!-- TODO: have a nice 3d image of hexagons up front -->
 
